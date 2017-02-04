@@ -2,6 +2,15 @@
 
 Welcome to the very first session of our course, based on Udacity's MOOC [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036). Here you'll find a description of what we worked the first session.
 
+## Hello world! in Python
+
+We already provide an example on running a `Hello world!` using Python. Please check the script to analyze the structure. (We just used a function called `print()`)
+
+#### Running the `hello_world.py` example on your console:
+1. Open your console.
+2. Navigate to the folder that contains the `hello_world.py` script.
+3. Type `python hello_world.py` to run the script.
+
 ## Conditionals
 The if statement contains a logical expression using which data is compared and a decision is made based on the result of the comparison.
 
