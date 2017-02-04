@@ -53,3 +53,6 @@ Check the [while_example.py](https://github.com/RodolfoFerro/muk/blob/master/Ses
 2. [Python IF Statement](https://www.tutorialspoint.com/python/python_if_statement.htm)
 3. [Python IF...ELIF...ELSE Statements](https://www.tutorialspoint.com/python/python_if_else.htm)
 4. [Python while Loop Statements](https://www.tutorialspoint.com/python/python_while_loop.htm)
+
+## Session 1 photo
+![Session 01](https://github.com/RodolfoFerro/muk/blob/master/Session01/session01.jpg "Session 01")
