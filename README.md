@@ -22,6 +22,6 @@ We will be working according to the following dates, so after Easter vacation we
 | 4      | Session 5                      |                  Mar 3, 2017 |
 | 5      | Make classes: Advanced Topics  |               Mar 6-10, 2017 |
 | 5      | Session 6                      |                 Mar 10, 2017 |
-| 6      | Extra projects begin!          | Beginning on March 10, 2017! |
+| 6      | Extra projects begin!          |  Beginning on March 10, 2017 |
 
 ### Session 1: Basics 1
