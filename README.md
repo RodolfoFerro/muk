@@ -29,6 +29,7 @@ We will be working according to the following dates, so after Easter vacation we
 2. Please follow the instructions installing Python. *
 3. To check if the installation is in order to begin, open a console in your computer and type `'python' + Enter`; this should open the Python prompt `>>>`. If any error is shown, everything is fine with your installation.
 
-* To install Python on Windows using the installer, you should check the `Add to PATH` option and the recommendation is to install Python in your `C:\\` directory.
+*To install Python on Windows using the installer, you should check the `Add to PATH` option and the recommendation is to install Python in your `C:\\` directory.
 
 ### Session 1: Basics 1
+------
