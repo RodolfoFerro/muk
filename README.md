@@ -34,6 +34,7 @@ We will be working according to the following dates, so after Easter vacation we
 1. Open your console.
 2. Navigate to the folder that contains your Python script.
 3. Type `python file_name.py` to run your script.
+
 ------
 ### Session 1: Basics 1
 
