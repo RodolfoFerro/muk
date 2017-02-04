@@ -33,9 +33,10 @@ We will be working according to the following dates, so after Easter vacation we
 ------
 ### Session 1: Basics 1
 
-Link to folder ---> [here]()
+Link to folder ---> [here](https://github.com/RodolfoFerro/muk/tree/master/Session01)
+Link to slides ---> [here](https://github.com/RodolfoFerro/muk/blob/master/Session01/slides.pdf)
 
 ##### Examples:
-* [Hello world in Python]()
-* [Conditionals example]()
-* [While loop example]()
+* [Hello world in Python](https://github.com/RodolfoFerro/muk/blob/master/Session01/hello_world.py)
+* [Conditionals example](https://github.com/RodolfoFerro/muk/blob/master/Session01/if_example.py)
+* [While loop example](https://github.com/RodolfoFerro/muk/blob/master/Session01/while_example.py)
