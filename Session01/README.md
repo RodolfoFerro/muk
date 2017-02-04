@@ -2,13 +2,15 @@
 
 Welcome to the very first session of our course, based on Udacity's MOOC [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036). Here you'll find a description of what we worked the first session.
 
+Also, feel free to check our [introductory slides](https://github.com/RodolfoFerro/muk/blob/master/Session01/slides.pdf) to our course.
+
 ## Hello world! in Python
 
 We already provide an example on running a `Hello world!` using Python. Please check the script to analyze the structure. (We just used a function called `print()`)
 
 #### Running the `hello_world.py` example on your console:
 1. Open your console.
-2. Navigate to the folder that contains the `hello_world.py` script.
+2. Navigate to the folder that contains the [`hello_world.py`](https://github.com/RodolfoFerro/muk/blob/master/Session01/hello_world.py) script.
 3. Type `python hello_world.py` to run the script.
 
 ## Conditionals
