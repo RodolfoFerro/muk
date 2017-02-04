@@ -23,13 +23,13 @@ We will be working according to the following dates, so after Easter vacation we
 | 6      | Extra projects begin!          |  Beginning on March 10, 2017 |
 
 # Content
-
-#### Python installation
+## Setting up your computer
+#### Python installation:
 1. Please visit the [download section](https://www.python.org/downloads/) of the [Python Official Website](https://www.python.org/) to download the 3.x executable version of the Python installer.
 2. Please follow the instructions installing Python. *
 3. To check if the installation is in order to begin, open a console in your computer and type `'python' + Enter`; this should open the Python prompt `>>>`. If any error is shown, everything is fine with your installation.
 
 *To install Python on Windows using the installer, you should check the `Add to PATH` option and the recommendation is to install Python in your `C:\\` directory.
 
-### Session 1: Basics 1
 ------
+### Session 1: Basics 1
