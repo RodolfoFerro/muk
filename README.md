@@ -1,4 +1,4 @@
-# Course repo: "*Programming Foundations with Python, and more...*"
+# Course repo: "*Programming Foundations with Python*", and more...
 
 Welcome to the repository of our Python course, based on Udacity's MOOC [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036). This repository pretends to host all the material and part of our projects developed in this course. The material will be organized by session.
 
