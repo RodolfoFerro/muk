@@ -2,7 +2,7 @@
 
 Welcome to the repository of our Python course, based on Udacity's MOOC [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036). This repository pretends to host all the material and part of our projects developed in this course. The material will be organized by session.
 
-## Calendar:
+## Calendar
 
 We will be working according to the following dates, so after Easter vacation we should be working on the extra projects.
 
@@ -21,5 +21,12 @@ We will be working according to the following dates, so after Easter vacation we
 | 5      | Make classes: Advanced Topics  |               Mar 6-10, 2017 |
 | 5      | Session 6                      |                 Mar 10, 2017 |
 | 6      | Extra projects begin!          |  Beginning on March 10, 2017 |
+
+# Content
+
+#### Python installation
+1. Please visit the [download section](https://www.python.org/downloads/) of the [Python Official Website](https://www.python.org/) to download the 3.x executable version of the Python installer.
+2. Please follow the instructions installing Python. *****
+3. To check if the installation is in order to begin, open a console in your computer and type `Python + Enter`. This should open the Python prompt `>>>`.
 
 ### Session 1: Basics 1
