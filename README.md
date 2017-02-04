@@ -1,7 +1,7 @@
-# Repositorio del curso "*Programming Foundations with Python, and more...*"
+# Course repo "*Programming Foundations with Python, and more...*"
 
 ![Muk](http://cdn.bulbagarden.net/upload/thumb/7/7c/089Muk.png/250px-089Muk.png "Muk")
 
-Bienvenidos al repositorio del curso de Python, basado en el MOOC de Udacity [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036). Este repositorio estará organizado por carpetas, con los códigos correspondientes a cada sesión.
+Welcome to the repository of our Python course, based on Udacity's MOOC [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036). This repository pretends to host all the material and part of our projects developed in this course. The material will be organized by session.
 
-### Sesión 1: Basics 1
+### Session 1: Basics 1
