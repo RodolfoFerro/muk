@@ -30,7 +30,7 @@ We will be working according to the following dates, so after Easter vacation we
 
 *To install Python on Windows using the installer, you should check the `Add to PATH` option and the recommendation is to install Python in your `C:\\` directory.
 
-#### Running Python on your console:
+#### Running a Python script on your console:
 1. Open your console.
 2. Navigate to the folder that contains your Python script.
 3. Type `python file_name.py` to run your script.
