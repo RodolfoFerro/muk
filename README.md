@@ -13,10 +13,11 @@ We will be working according to the following dates, so after Easter vacation we
 | 1      | Use functions                  |               Feb 6-10, 2017 |
 | 2      | Use classes: Draw Turtles      |              Feb 13-17, 2017 |
 | 3      | Use classes: Send Text         |              Feb 20-24, 2017 |
-| 4      | Make classes: Move Website     |         Feb 27 - Mar 3, 2017 |
+| 4      | Use classes: Profanity Editor  |         Feb 27 - Mar 3, 2017 |
 | 4      | Session 2                      |                  Mar 3, 2017 |
-| 5      | Make classes: Advanced Topics  |               Mar 6-10, 2017 |
-| 6      | Extra projects begin!          |  Beginning on March 10, 2017 |
+| 5      | Make classes: Move Website     |               Mar 6-10, 2017 |
+| 6      | Make classes: Advanced Topics  |              Mar 13-17, 2017 |
+| 7      | Extra projects begin!          |  Beginning on March 17, 2017 |
 
 # Content
 #### Python installation:
