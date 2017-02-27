@@ -11,15 +11,11 @@ We will be working according to the following dates, so after Easter vacation we
 | 0      | Session 1: Basics 1            |                  Feb 3, 2017 |
 | 1      | Introduction                   |               Feb 6-10, 2017 |
 | 1      | Use functions                  |               Feb 6-10, 2017 |
-| 1      | Session 2: Basics 2            |                 Feb 10, 2017 |
 | 2      | Use classes: Draw Turtles      |              Feb 13-17, 2017 |
-| 2      | Session 3                      |                 Feb 17, 2017 |
 | 3      | Use classes: Send Text         |              Feb 20-24, 2017 |
-| 3      | Session 4                      |                 Feb 24, 2017 |
 | 4      | Make classes: Move Website     |         Feb 27 - Mar 3, 2017 |
-| 4      | Session 5                      |                  Mar 3, 2017 |
+| 4      | Session 2                      |                  Mar 3, 2017 |
 | 5      | Make classes: Advanced Topics  |               Mar 6-10, 2017 |
-| 5      | Session 6                      |                 Mar 10, 2017 |
 | 6      | Extra projects begin!          |  Beginning on March 10, 2017 |
 
 # Content
@@ -46,3 +42,22 @@ Link to slides ⟶ [here](https://github.com/RodolfoFerro/muk/blob/master/Sessio
 * [Hello world in Python](https://github.com/RodolfoFerro/muk/blob/master/Session01/hello_world.py)
 * [Conditionals example](https://github.com/RodolfoFerro/muk/blob/master/Session01/if_example.py)
 * [While loop example](https://github.com/RodolfoFerro/muk/blob/master/Session01/while_example.py)
+
+------
+### Lesson 1 - Introduction
+### Lesson 2 - Use functions
+
+Link to folder ⟶ [here](https://github.com/RodolfoFerro/muk/tree/master/Lesson01_02)
+
+##### Scripts:
+* [Take a break!](https://github.com/RodolfoFerro/muk/blob/master/Lesson01_02/take_a_break.py)
+* [Rename files](https://github.com/RodolfoFerro/muk/blob/master/Lesson01_02/rename_files.py)
+
+------
+### Lesson 3 - Use classes: Draw Turtles
+
+Link to folder ⟶ [here](https://github.com/RodolfoFerro/muk/tree/master/Lesson03)
+
+##### Scripts:
+* [Mindstorms](https://github.com/RodolfoFerro/muk/blob/master/Lesson03/mindstorms.py)
+* [Koch fractal](https://github.com/RodolfoFerro/muk/blob/master/Lesson03/koch.py)
