@@ -60,4 +60,7 @@ Link to folder ⟶ [here](https://github.com/RodolfoFerro/muk/tree/master/Lesson
 
 ##### Scripts:
 * [Mindstorms](https://github.com/RodolfoFerro/muk/blob/master/Lesson03/mindstorms.py)
+* [Draw something](https://github.com/RodolfoFerro/muk/blob/master/Lesson03/drawsomething.py) by Blanca Zúñiga
+* [Example 2](https://github.com/RodolfoFerro/muk/blob/master/Lesson03/example2.py) by Karla Mares
+* [Flower](https://github.com/RodolfoFerro/muk/blob/master/Lesson03/flower.py) by Mario Arellano
 * [Koch fractal](https://github.com/RodolfoFerro/muk/blob/master/Lesson03/koch.py)
